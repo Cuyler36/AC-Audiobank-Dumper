@@ -1,0 +1,16 @@
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\obj\Debug\netcoreapp3.1\AC Audiobank Dumper.csprojAssemblyReference.cache
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\obj\Debug\netcoreapp3.1\AC Audiobank Dumper.AssemblyInfoInputs.cache
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\obj\Debug\netcoreapp3.1\AC Audiobank Dumper.AssemblyInfo.cs
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\obj\Debug\netcoreapp3.1\AC Audiobank Dumper.csproj.CoreCompileInputs.cache
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\bin\Debug\netcoreapp3.1\AC Audiobank Dumper.exe
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\bin\Debug\netcoreapp3.1\AC Audiobank Dumper.deps.json
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\bin\Debug\netcoreapp3.1\AC Audiobank Dumper.runtimeconfig.json
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\bin\Debug\netcoreapp3.1\AC Audiobank Dumper.runtimeconfig.dev.json
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\bin\Debug\netcoreapp3.1\AC Audiobank Dumper.dll
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\bin\Debug\netcoreapp3.1\AC Audiobank Dumper.pdb
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\bin\Debug\netcoreapp3.1\BinaryX.dll
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\bin\Debug\netcoreapp3.1\BinaryX.pdb
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\obj\Debug\netcoreapp3.1\AC Audiobank Dumper.csproj.CopyComplete
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\obj\Debug\netcoreapp3.1\AC Audiobank Dumper.dll
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\obj\Debug\netcoreapp3.1\AC Audiobank Dumper.pdb
+C:\Users\olsen\source\repos\AC Audiobank Dumper\AC Audiobank Dumper\obj\Debug\netcoreapp3.1\AC Audiobank Dumper.genruntimeconfig.cache

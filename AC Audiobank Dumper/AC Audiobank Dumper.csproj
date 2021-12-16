@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>AC_Audiobank_Dumper</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BinaryX">
+      <HintPath>E:\Users\olsen\source\repos\BinaryX\BinaryX\bin\Debug\netcoreapp3.0\BinaryX.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

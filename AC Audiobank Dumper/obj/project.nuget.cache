@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZMiJ6UazCMVrWZZq1Muq/iLLudNChJIe9/Oki1CBajj3styq8iVcCS78ovXHWcoCRun1vHAAJd5hKf9WkQgRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Windows.old\\Users\\olsen\\source\\repos\\AC Audiobank Dumper\\AC Audiobank Dumper\\AC Audiobank Dumper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olsen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
